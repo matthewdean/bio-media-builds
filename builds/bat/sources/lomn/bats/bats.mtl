@@ -1,0 +1,24 @@
+newmtl Material_000_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 1 1 1
+map_Kd ns_cha_10xx_bateyes.dds
+newmtl Material_001_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0.100000001490116 0.100000001490116 0.100000001490116
+map_Kd ns_cha_10xx_bat1.dds
+newmtl Material_002_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0.100000001490116 0.100000001490116 0.100000001490116
+map_Kd ns_cha_10xx_bat2.dds

@@ -1,0 +1,16 @@
+newmtl Material_000_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0 0 0
+map_Kd ns_cha_10xx_tinyfish2.dds
+newmtl Material_001_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0 0 0
+map_Kd ns_cha_10xx_tinyfish_eyes.dds

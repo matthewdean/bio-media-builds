@@ -1,0 +1,32 @@
+newmtl Material_000_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 1 1 1
+map_Kd ns_cha_10xx_tortise_eyes.dds
+newmtl Material_001_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0 0 0
+map_Kd ns_cha_10xx_tortise_face.dds
+newmtl Material_002_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0 0 0
+map_Kd ns_cha_10xx_tortise_misc.dds
+newmtl Material_003_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0 0 0
+map_Kd ns_cha_10xx_tortise_shell.dds

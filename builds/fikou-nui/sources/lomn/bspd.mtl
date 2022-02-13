@@ -1,0 +1,64 @@
+newmtl Material_000_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 1 1 1
+map_Kd ns_cha_20xx_spider_eyes.dds
+newmtl Material_001_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0.100000001490116 0.100000001490116 0.100000001490116
+map_Kd ns_cha_20xx_spider1.dds
+newmtl Material_002_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0.100000001490116 0.100000001490116 0.100000001490116
+map_Kd ns_cha_20xx_spider2.dds
+newmtl Material_003_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0.100000001490116 0.100000001490116 0.100000001490116
+map_Kd ns_cha_20xx_spider3.dds
+newmtl Material_004_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0.100000001490116 0.100000001490116 0.100000001490116
+map_Kd ns_cha_20xx_spider4.dds
+newmtl Material_005_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0.100000001490116 0.100000001490116 0.100000001490116
+map_Kd ns_cha_20xx_spider5.dds
+newmtl Material_006_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0.100000001490116 0.100000001490116 0.100000001490116
+map_Kd ns_cha_20xx_spider6.dds
+newmtl Material_007_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0.100000001490116 0.100000001490116 0.100000001490116
+map_Kd ns_cha_20xx_spider_mask.dds

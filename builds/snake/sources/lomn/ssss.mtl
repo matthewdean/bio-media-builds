@@ -1,0 +1,56 @@
+newmtl Material_000_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 1 1 1
+map_Kd ns_cha_10xx_wolfrat_eyes.dds
+newmtl Material_001_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0 0 0
+map_Kd ns_cha_10xx_wolfrat_ears.dds
+newmtl Material_002_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0 0 0
+map_Kd ns_cha_10xx_wolfrat_arm.dds
+newmtl Material_003_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0 0 0
+map_Kd ns_cha_10xx_wolfrat_claws.dds
+newmtl Material_004_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0 0 0
+map_Kd ns_cha_10xx_wolfrat_wheel.dds
+newmtl Material_005_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0 0 0
+map_Kd ns_cha_10xx_wolfrat_nose.dds
+newmtl Material_006_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0 0 0
+map_Kd ns_cha_10xx_wolfrat_misc_2.dds

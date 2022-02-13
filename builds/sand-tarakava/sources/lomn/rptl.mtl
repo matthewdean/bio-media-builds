@@ -1,0 +1,96 @@
+newmtl Material_000_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 1 1 1
+map_Kd ns_cha_10xx_reptile_eyes.dds
+newmtl Material_001_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0 0 0
+map_Kd ns_cha_10xx_reptile_face.dds
+newmtl Material_002_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0 0 0
+map_Kd ns_cha_10xx_reptile_eyepanel.dds
+newmtl Material_003_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0 0 0
+map_Kd ns_cha_10xx_reptile_misc.dds
+newmtl Material_004_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0 0 0
+map_Kd ns_cha_10xx_reptile_hose.dds
+newmtl Material_005_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0 0 0
+map_Kd ns_cha_10xx_reptile_treads.dds
+newmtl Material_006_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0 0 0
+map_Kd ns_cha_10xx_reptile_back.dds
+newmtl Material_007_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0 0 0
+map_Kd ns_cha_10xx_reptile_hands.dds
+newmtl Material_008_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0 0 0
+map_Kd ns_cha_10xx_reptile_wheel.dds
+newmtl Material_009_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0 0 0
+map_Kd ns_cha_10xx_reptile_jaw.dds
+newmtl Material_010_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0 0 0
+map_Kd ns_cha_10xx_reptile_mask.dds
+newmtl Material_011_Mat
+Kd 1 1 1
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0 0 0
+map_Kd ns_cha_10xx_reptile_WING.dds
