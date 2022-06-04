@@ -25,34 +25,34 @@ Builds
 ------
 | Image | Name | Appearances |
 |-|-|-|
-| ![](builds/bat/bats.png) | [Bat](/builds/bat) | LOMN
+| ![](builds/rahi/bat/bats.png) | [Bat](/builds/rahi/bat) | LOMN
 | | Brakas | QFTT (scrapped) |
-| ![](builds/bug/bug.png) | [Bug](/builds/bug) | LOMN, QFTT
+| ![](builds/rahi/bug/bug.png) | [Bug](/builds/rahi/bug) | LOMN, QFTT
 |  | Cliff Bug | QFTT
-| ![](builds/crab/crab.png) | [Crab](/builds/crab) | LOMN
+| ![](builds/rahi/crab/crab.png) | [Crab](/builds/rahi/crab) | LOMN
 |  | Electric Bug | MNOG, QFTT
 |  | Fast Bug | LOMN
 | | Electric Spider | QFTT
-| ![](builds/fikou-nui/fikou-nui.png) | [Fikou Nui](/builds/fikou-nui) | LOMN
+| ![](builds/rahi/fikou-nui/fikou-nui.png) | [Fikou Nui](/builds/rahi/fikou-nui) | LOMN
 | | Fire Mahi | QFTT
 |  | Hikaki (QFTT version) | QFTT
 | | Kewa | MNOG, QFTT
-| ![](builds/lavaboard/lavaboard.png) | [Lavaboard](/builds/lavaboard) | MNOG, LOMN, QFTT
-| ![](builds/little-scorpion/little-scorpion.png) | [Little Scorpion](/builds/little-scorpion) | LOMN, QFTT
-| ![](builds/mahi/mahi.png) | [Mahi](/builds/mahi) | MNOG
+| ![](builds/items/lavaboard/lavaboard.png) | [Lavaboard](/builds/items/lavaboard) | MNOG, LOMN, QFTT
+| ![](builds/rahi/little-scorpion/little-scorpion.png) | [Little Scorpion](/builds/rahi/little-scorpion) | LOMN, QFTT
+| ![](builds/rahi/mahi/mahi.png) | [Mahi](/builds/rahi/mahi) | MNOG
 |  | Moa | QFTT
-| ![](builds/sand-tarakava/sand-tarakava.png) | [Sand Tarakava](/builds/sand-tarakava) | MNOG, LOMN
-| ![](builds/small-fish/small-fish.png) | [Small Fish](/builds/small-fish) | MNOG, LOMN, QFTM
+| ![](builds/rahi/sand-tarakava/sand-tarakava.png) | [Sand Tarakava](/builds/rahi/sand-tarakava) | MNOG, LOMN
+| ![](builds/rahi/small-fish/small-fish.png) | [Small Fish](/builds/rahi/small-fish) | MNOG, LOMN, QFTM
 | | Snake | LOMN
-| ![](builds/tiny-fish/tiny-fish.png) | [Tiny Fish](/builds/tiny-fish) | LOMN, QFTM
-| ![](builds/shore-turtle/shore-turtle.png) | [Shore Turtle](/builds/shore-turtle) | LOMN (scrapped), QFTT, QFTM
-| ![](builds/turtle/turtle.png) | [Turtle](/builds/turtle) | LOMN
-| ![](builds/ussal-crab/puku.png) | [Ussal Crab](/builds/ussal-crab) | MNOG, QFTT, QFTM
+| ![](builds/rahi/tiny-fish/tiny-fish.png) | [Tiny Fish](/builds/rahi/tiny-fish) | LOMN, QFTM
+| ![](builds/rahi/shore-turtle/shore-turtle.png) | [Shore Turtle](/builds/rahi/shore-turtle) | LOMN (scrapped), QFTT, QFTM
+| ![](builds/rahi/turtle/turtle.png) | [Turtle](/builds/rahi/turtle) | LOMN
+| ![](builds/rahi/ussal-crab/puku.png) | [Ussal Crab](/builds/rahi/ussal-crab) | MNOG, QFTT, QFTM
 | | Volo Lutu Launcher | LOMN, QFTT
 | | Vuata Maca Crystal | QFTT
 | | Vuata Maca Tree | QFTT
-| ![](builds/vuata-maca-tree-fruit/vuata-maca-tree-fruit.png) | [Vuata Maca Tree Fruit](/builds/vuata-maca-tree-fruit) | MNOG, LOMN
-| ![](builds/wolf-rat/wolf-rat.png) | [Wolf Rat](/builds/wolf-rat) | LOMN
+| ![](builds/items/vuata-maca-tree-fruit/vuata-maca-tree-fruit.png) | [Vuata Maca Tree Fruit](/builds/items/vuata-maca-tree-fruit) | MNOG, LOMN
+| ![](builds/rahi/wolf-rat/wolf-rat.png) | [Wolf Rat](/builds/rahi/wolf-rat) | LOMN
 
 Credits
 -------
