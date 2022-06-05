@@ -25,7 +25,7 @@ Builds
 ------
 | Image | Name | Appearances |
 |-|-|-|
-| ![](builds/rahi/bat/bats.png) | [Bat](/builds/rahi/bat) | LOMN
+| ![](builds/rahi/bat/bat.png) | [Bat](/builds/rahi/bat) | LOMN
 | | Brakas | QFTT (scrapped) |
 | ![](builds/rahi/bug/bug.png) | [Bug](/builds/rahi/bug) | LOMN, QFTT
 |  | Cliff Bug | QFTT

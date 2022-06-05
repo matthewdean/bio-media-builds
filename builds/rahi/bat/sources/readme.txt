@@ -1,1 +1,0 @@
-there is an ice bar, a fire bat, and a regular black bat
