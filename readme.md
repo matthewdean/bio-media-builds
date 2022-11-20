@@ -43,11 +43,11 @@ Builds
 |  | Moa | QFTT
 | ![](builds/rahi/sand-tarakava/sand-tarakava.png) | [Sand Tarakava](/builds/rahi/sand-tarakava) | MNOG, LOMN
 | ![](builds/rahi/small-fish/small-fish.png) | [Small Fish](/builds/rahi/small-fish) | MNOG, LOMN, QFTM
-| | Snake | LOMN
+| ![](builds/rahi/snake/snake.png) | [Snake](/builds/rahi/snake) | LOMN
 | ![](builds/rahi/tiny-fish/tiny-fish.png) | [Tiny Fish](/builds/rahi/tiny-fish) | LOMN, QFTM
 | ![](builds/rahi/shore-turtle/shore-turtle.png) | [Shore Turtle](/builds/rahi/shore-turtle) | LOMN (scrapped), QFTT, QFTM
 | ![](builds/rahi/turtle/turtle.png) | [Turtle](/builds/rahi/turtle) | LOMN
-| ![](builds/rahi/ussal-crab/puku.png) | [Ussal Crab](/builds/rahi/ussal-crab) | MNOG, QFTT, QFTM
+| ![](builds/rahi/ussal-crab/ussal-crab.png) | [Ussal Crab](/builds/rahi/ussal-crab) | MNOG, QFTT, QFTM
 | | Volo Lutu Launcher | LOMN, QFTT
 | | Vuata Maca Crystal | QFTT
 | | Vuata Maca Tree | QFTT
