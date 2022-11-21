@@ -23,7 +23,7 @@ Read our [Contribution Guidelines](contributing.md) to learn how you can help wi
 
 Builds
 ------
-| Image | Name | Appearances |
+| Image | Name | Appears In |
 |-|-|-|
 | ![](builds/rahi/bat/bat.png) | [Bat](/builds/rahi/bat) | LOMN
 | | Brakas | QFTT (scrapped) |
@@ -34,12 +34,12 @@ Builds
 |  | Fast Bug | LOMN
 | | Electric Spider | QFTT
 | ![](builds/rahi/fikou-nui/fikou-nui.png) | [Fikou Nui](/builds/rahi/fikou-nui) | LOMN
-| | Fire Mahi | QFTT
 |  | Hikaki (QFTT version) | QFTT
 | | Kewa | MNOG, QFTT
 | ![](builds/items/lavaboard/lavaboard.png) | [Lavaboard](/builds/items/lavaboard) | MNOG, LOMN, QFTT
 | ![](builds/rahi/little-scorpion/little-scorpion.png) | [Little Scorpion](/builds/rahi/little-scorpion) | LOMN, QFTT
-| ![](builds/rahi/mahi/mahi.png) | [Mahi](/builds/rahi/mahi) | MNOG
+| ![](builds/rahi/maha/maha.png) | [Mahi (Wild)](/builds/rahi/maha) | QFTT
+| ![](builds/rahi/mahi/mahi.png) | [Mahi (Tame)](/builds/rahi/mahi) | MNOG, MNOG2
 |  | Moa | QFTT
 | ![](builds/rahi/sand-tarakava/sand-tarakava.png) | [Sand Tarakava](/builds/rahi/sand-tarakava) | MNOG, LOMN
 | ![](builds/rahi/small-fish/small-fish.png) | [Small Fish](/builds/rahi/small-fish) | MNOG, LOMN, QFTM
