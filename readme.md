@@ -25,29 +25,29 @@ Builds
 ------
 | Image | Name | Appears In |
 |-|-|-|
-| ![](builds/rahi/bat/bat.png) | [Bat](/builds/rahi/bat) | LOMN
+| ![](builds/rahi/bat/bat.png) | [Bat](/builds/rahi/bat) | LOMN |
 | | Brakas | QFTT (scrapped) |
-| ![](builds/rahi/bug/bug.png) | [Bug](/builds/rahi/bug) | LOMN, QFTT
-|  | Cliff Bug | QFTT
-| ![](builds/rahi/crab/crab.png) | [Crab](/builds/rahi/crab) | LOMN
-|  | Electric Bug | MNOG, QFTT
-|  | Fast Bug | LOMN
-| | Electric Spider | QFTT
-| ![](builds/rahi/fikou-nui/fikou-nui.png) | [Fikou Nui](/builds/rahi/fikou-nui) | LOMN
+| ![](builds/rahi/bug/bug.png) | [Bug](/builds/rahi/bug) | LOMN, QFTT |  Black, Light Blue |
+|  | Cliff Bug | QFTT |
+| ![](builds/rahi/crab/crab.png) | [Crab](/builds/rahi/crab) | LOMN | |
+| ![](builds/rahi/electric-bug/electric-bug.png) | Electric Bug |
+|  | Hoto Bug | LOMN
+| ![](builds/rahi/electric-spider/electric-spider.png) | Electric Spider | QFTT |
+| ![](builds/rahi/fikou-nui/fikou-nui.png) | [Fikou Nui](/builds/rahi/fikou-nui) | LOMN | |
 |  | Hikaki (QFTT version) | QFTT
-| | Kewa | MNOG, QFTT
-| ![](builds/items/lavaboard/lavaboard.png) | [Lavaboard](/builds/items/lavaboard) | MNOG, LOMN, QFTT
-| ![](builds/rahi/little-scorpion/little-scorpion.png) | [Little Scorpion](/builds/rahi/little-scorpion) | LOMN, QFTT
-| ![](builds/rahi/maha/maha.png) | [Mahi (Wild)](/builds/rahi/maha) | QFTT
-| ![](builds/rahi/mahi/mahi.png) | [Mahi (Tame)](/builds/rahi/mahi) | MNOG, MNOG2
+| | Kewa | MNOG, QFTT |
+| ![](builds/items/lavaboard/lavaboard.png) | [Lavaboard](/builds/items/lavaboard) | MNOG, LOMN, QFTT |
+| ![](builds/rahi/little-scorpion/little-scorpion.png) | [Little Scorpion](/builds/rahi/little-scorpion) | LOMN, QFTT |
+| ![](builds/rahi/mahi-tame/mahi-tame.png) | [Mahi (Tame)](/builds/rahi/mahi-tame) | MNOG, MNOG2 | |
+| ![](builds/rahi/mahi-wild/mahi-wild.png) | [Mahi (Wild)](/builds/rahi/mahi-wild) | QFTT |
 |  | Moa | QFTT
-| ![](builds/rahi/sand-tarakava/sand-tarakava.png) | [Sand Tarakava](/builds/rahi/sand-tarakava) | MNOG, LOMN
+| ![](builds/rahi/sand-tarakava/sand-tarakava.png) | [Sand Tarakava](/builds/rahi/sand-tarakava) | MNOG, LOMN |
 | ![](builds/rahi/small-fish/small-fish.png) | [Small Fish](/builds/rahi/small-fish) | MNOG, LOMN, QFTM
 | ![](builds/rahi/snake/snake.png) | [Snake](/builds/rahi/snake) | LOMN
-| ![](builds/rahi/tiny-fish/tiny-fish.png) | [Tiny Fish](/builds/rahi/tiny-fish) | LOMN, QFTM
-| ![](builds/rahi/shore-turtle/shore-turtle.png) | [Shore Turtle](/builds/rahi/shore-turtle) | LOMN (scrapped), QFTT, QFTM
+| ![](builds/rahi/tiny-fish/tiny-fish.png) | [Tiny Fish](/builds/rahi/tiny-fish) | LOMN, QFTM |
+| ![](builds/rahi/shore-turtle/shore-turtle.png) | [Shore Turtle](/builds/rahi/shore-turtle) | LOMN (scrapped), QFTT, QFTM |
 | ![](builds/rahi/turtle/turtle.png) | [Turtle](/builds/rahi/turtle) | LOMN
-| ![](builds/rahi/ussal-crab/ussal-crab.png) | [Ussal Crab](/builds/rahi/ussal-crab) | MNOG, QFTT, QFTM
+| ![](builds/rahi/ussal-crab/ussal-crab.png) | [Ussal Crab](/builds/rahi/ussal-crab) | MNOG, QFTT, QFTM |
 | | Volo Lutu Launcher | LOMN, QFTT
 | | Vuata Maca Crystal | QFTT
 | | Vuata Maca Tree | QFTT
@@ -56,8 +56,10 @@ Builds
 
 Credits
 -------
-* The LEGO Group for creating the immersive world of BIONICLE
-* The [BioMedia Project team](http://biomediaproject.com/bmp/staff/) for thoroughly archiving BIONICLE media
-* [Mark of Mask of Destiny](https://www.maskofdestiny.com/news/author/mark-of-mod) for sharing pictures of his Sand Tarakava
-* [TLROsborne of DeviantArt](https://www.deviantart.com/tlrosborne/gallery/77472217/bionicle-canon-model-instructions) and [brickinui of Imgur](https://imgur.com/user/brickinui) for publishing instructions of various models which we cross-referenced several times
+* The [LEGO Group](https://www.lego.com/en-us/aboutus/lego-group) for creating the immersive world of BIONICLE
+* The [BioMedia Project team](http://biomediaproject.com/bmp/staff/) for thoroughly archiving and sharing their knowledge of BIONICLE media
+* [Mark of Mask of Destiny](https://www.maskofdestiny.com/news/author/mark-of-mod) for publishing [pictures of his Sand Tarakava](https://www.maskofdestiny.com/news/icfta-sand-tarakava)
+* [TLROsborne of DeviantArt](https://www.deviantart.com/tlrosborne/gallery/77472217/bionicle-canon-model-instructions) and [brickinui of Imgur](https://imgur.com/user/brickinui) for publishing instructions of various models which we cross-referenced
 * [Boxturret](https://boxturret.tumblr.com/tagged/3D) for their inspirational 3D renders
+* [Emily](https://emilyinternet.zone/) for tips on reconstructing various Rahi
+* jointdog for painstakingly ripping and publishing [spritesheets of QFTT](https://www.spriters-resource.com/game_boy_advance/bioniclequestforthetoa/)

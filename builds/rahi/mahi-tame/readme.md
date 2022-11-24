@@ -1,4 +1,4 @@
-![](mahi.png)
+![](mahi-tame.png)
 
 Notes
 -----
