@@ -30,7 +30,7 @@ Builds
 | ![](builds/rahi/bug/bug.png) | [Bug](/builds/rahi/bug) | LOMN, QFTT |  Black, Light Blue |
 |  | Cliff Bug | QFTT |
 | ![](builds/rahi/crab/crab.png) | [Crab](/builds/rahi/crab) | LOMN | |
-| ![](builds/rahi/electric-bug/electric-bug.png) | Electric Bug |
+| ![](builds/rahi/electric-bug/electric-bug.png) | Electric Bug | LOMN, QFTT |
 |  | Hoto Bug | LOMN
 | ![](builds/rahi/electric-spider/electric-spider.png) | Electric Spider | QFTT |
 | ![](builds/rahi/fikou-nui/fikou-nui.png) | [Fikou Nui](/builds/rahi/fikou-nui) | LOMN | |
