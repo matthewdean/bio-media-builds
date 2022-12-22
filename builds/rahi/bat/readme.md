@@ -1,17 +1,19 @@
 ![](bat.png)
-![](fire-bat.png)
-![](ice-bat.png)
+
+Versions
+--------
+| Name | Body Color | Eye Color |
+|-|-|-|
+| Bat | Black | Reddish Pink | 
+| Fire bat | Fire | Reddish Pink |
+| Ice bat | White | Black |
 
 Notes
 -----
-* Bat eye colors in LOMN vary between source files and actual gameplay:
-
-| Bat | Eye Color (Gameplay) | Eye Color (Source) |
-| :--: | :---: | :---: |
-| Black | Reddish Pink | Yellow |
-| Fire | Reddish Pink | Dark Yellow |
-| Ice | Black | Blue |
+* A common misconception is that the eyes are composed of 3mm hose inside technic pins. It is physically impossible to fit 3mm hose inside technic pins.
+* We infer the red and white bats were intended to be named for the regions where they lived (fire & ice) based on their LoMN filenames (btfr and ibat)
+* Bat eye colors in LOMN vary between source files and actual gameplay
 
 Tasks
 -----
-* Confirm the eye colors in the `.io` file match LOMN gameplay
+* Update eye color source files so the .obj files match gameplay
