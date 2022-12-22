@@ -2,7 +2,7 @@
 
 Versions
 --------
-| Name | Body Color | Eye Color |
+| Version | Body Color | Eye Color |
 |-|-|-|
 | Bat | Black | Reddish Pink | 
 | Fire bat | Fire | Reddish Pink |
