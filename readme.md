@@ -35,7 +35,7 @@ Builds
 |  | Hoto Bug | LoMN
 | ![](builds/rahi/electric-spider/electric-spider.png) | Electric Spider | QftT |
 | ![](builds/rahi/fikou-nui/fikou-nui.png) | [Fikou Nui](/builds/rahi/fikou-nui) | LoMN | |
-|  | Hikaki (QftT version) | QftT
+| ![](builds/rahi/hikaki/hikaki.png) | Hikaki (QftT version) | QftT
 | | Kewa | MNOG, QftT |
 | ![](builds/rahi/little-scorpion/little-scorpion.png) | [Little Scorpion](/builds/rahi/little-scorpion) | LoMN, QftT |
 | ![](builds/rahi/mahi-tame/mahi-tame.png) | [Mahi (Tame)](/builds/rahi/mahi-tame) | MNOG, MNOG2 | |
