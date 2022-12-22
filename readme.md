@@ -5,7 +5,7 @@ Mission
 -------
 Create and preserve digital representations of buildable models present in BIONICLE media. Note that LEGO and BIONICLE are trademarks of the LEGO Group of companies which does not sponsor, authorize or endorse this project.
 
-We prioritize builds from the early years (2001-2002) which do not have official instructions and are primarily considering the following sources: Mata Nui Online Game (MNOG), Quest for the Toa (QftT), Legend of Mata Nui (LoMN), and Quest for the Masks (QftM).
+We prioritize builds from the early years (2001-2002) which do not have official instructions.
 
 Values
 ------
@@ -38,7 +38,7 @@ Builds
 | ![](builds/rahi/hikaki/hikaki.png) | Hikaki (QftT version) | QftT
 | | Kewa | MNOG, QftT |
 | ![](builds/rahi/little-scorpion/little-scorpion.png) | [Little Scorpion](/builds/rahi/little-scorpion) | LoMN, QftT |
-| ![](builds/rahi/mahi-tame/mahi-tame.png) | [Mahi (Tame)](/builds/rahi/mahi-tame) | MNOG, MNOG2 | |
+| ![](builds/rahi/mahi-tame/mahi-tame.png) | [Mahi (Tame)](/builds/rahi/mahi-tame) | MNOG, MNOGII | |
 | ![](builds/rahi/mahi-wild/mahi-wild.png) | [Mahi (Wild)](/builds/rahi/mahi-wild) | QftT |
 |  | Moa | QftT
 | ![](builds/rahi/sand-tarakava/sand-tarakava.png) | [Sand Tarakava](/builds/rahi/sand-tarakava) | MNOG, LoMN |
@@ -58,6 +58,21 @@ Builds
 | | Vuata Maca Crystal | QftT
 | | Vuata Maca Tree | QftT
 | ![](builds/items/vuata-maca-tree-fruit/vuata-maca-tree-fruit.png) | [Vuata Maca Tree Fruit](/builds/items/vuata-maca-tree-fruit) | MNOG, LoMN
+
+### Dark Hunters
+| Image | Name | Appears In |
+|-|-|-|
+| ![](builds/dark-hunters/charger/charger.png) | [Charger](/builds/dark-hunters/charger) | DH |
+
+### Media
+| Media | Acronym | Medium | Year Released |
+|-|-|-|-|
+| [Mata Nui Online Game](https://biosector01.com/wiki/Mata_Nui_Online_Game) | MNOG | Browser game | 2001 |
+| [Quest for the Toa](https://biosector01.com/wiki/BIONICLE:_Quest_for_the_Toa) | QftT | PC game | 2001 |
+| [The Legend of Mata Nui](https://biosector01.com/wiki/BIONICLE:_The_Legend_of_Mata_Nui) | LoMN | PC game | 2001 (cancelled) |
+| [Quest for the Masks](https://biosector01.com/wiki/BIONICLE:_Quest_for_the_Masks) | QftM | Card game | 2001 |
+| [Mata Nui Online Game II: The Final Chronicle](https://biosector01.com/wiki/Mata_Nui_Online_Game_II:_The_Final_Chronicle) | MNOGII | Browser game | 2003 |
+| [Dark Hunters](https://biosector01.com/wiki/BIONICLE:_Dark_Hunters) | DH | Book | 2006 |
 
 Credits
 -------
