@@ -6,7 +6,7 @@ Versions
 |-|-|-|-|
 | Bug | Black | Red | LoMN |
 | Blue bug (Thali-Whali) | Light blue | Black | LoMN, QftT |
-| Green bug | Green | Green | QftT |
+| Unnamed | Green | Green | QftT |
 
 Notes
 -----

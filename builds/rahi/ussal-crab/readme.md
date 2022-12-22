@@ -1,6 +1,18 @@
-![](puku.png)
+![](ussal-crab.png)
 ![](purple-ussal.png)
 ![](mining-ussal.png)
+
+Versions
+--------
+| Version | Appears In |
+|-|-|
+| Blue & yellow ussal (Puku) | MNOG |
+| Purple & black ussal | MNOG |
+| Black ussal with mining saws | MNOG |
+| Brown & lime | QftM |
+| Various bizarre colors | QftM |
+| Yellow | QftT |
+| Light blue | QftT |
 
 Notes
 -----
@@ -10,4 +22,4 @@ Notes
 Tasks
 -----
 * Change all axles & connectors to use colors which were generally used at the time
-* Confirm the eye stalks are 6L
+* Confirm eye stalks are correct length

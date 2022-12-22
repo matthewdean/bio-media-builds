@@ -1,5 +1,12 @@
 ![](hikaki.png)
 
+Versions
+--------
+| Version | Head & Body Color | Snout & Wing Color | Arm & Tail Color | Appears In |
+|-|-|-|-|-|
+| Unnamed | Red | Yellow | Orange | QftT |
+| Unnamed | Blue | White | Light Gray | QftT |
+
 Notes
 -----
 * In QftT, the legs are not part of the sprite (presumably because they are beneath lava) so they have been left out of the recreation

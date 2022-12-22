@@ -1,9 +1,12 @@
 ![](tiny-fish.png)
 
-Notes
------
-* Present in LOMN and cancelled activity book
+Versions
+--------
+| Version | Body Color | Eye Color | Appears In |
+|-|-|-|-|
+| Unnamed | Dark gray | Red | LoMN, QftM |
+| Unnamed | Black | Red | QftM |
 
 Tasks
 -----
-* Add black variant
+* Update .obj to use game accurate eye color

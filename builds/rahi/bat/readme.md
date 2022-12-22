@@ -2,11 +2,11 @@
 
 Versions
 --------
-| Version | Body Color | Eye Color |
-|-|-|-|
-| Bat | Black | Reddish Pink | 
-| Fire bat | Fire | Reddish Pink |
-| Ice bat | White | Black |
+| Version | Body Color | Eye Color | Appears In |
+|-|-|-|-|
+| Bat | Black | Reddish Pink | LoMN, QftM |
+| Fire bat | Fire | Reddish Pink | LoMN |
+| Ice bat | White | Black | LoMN |
 
 Notes
 -----

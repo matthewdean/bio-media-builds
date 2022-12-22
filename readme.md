@@ -27,27 +27,32 @@ Builds
 | Image | Name | Appears In |
 |-|-|-|
 | ![](builds/rahi/bat/bat.png) | [Bat](/builds/rahi/bat) | LoMN, QftM |
+|  | Bird | LoMN, QftT |
 | ![](builds/rahi/brakas/brakas.png) | Brakas | QftT (scrapped) |
 | ![](builds/rahi/bug/bug.png) | [Bug](/builds/rahi/bug) | LoMN, QftT |  Black, Light Blue |
 |  | Cliff Bug | QftT |
 | ![](builds/rahi/crab/crab.png) | [Crab](/builds/rahi/crab) | LoMN | |
 | ![](builds/rahi/electric-bug/electric-bug.png) | Electric Bug | LoMN, QftT |
-|  | Hoto Bug | LoMN
 | ![](builds/rahi/electric-spider/electric-spider.png) | Electric Spider | QftT |
 | ![](builds/rahi/fikou-nui/fikou-nui.png) | [Fikou Nui](/builds/rahi/fikou-nui) | LoMN | |
-| ![](builds/rahi/hikaki/hikaki.png) | Hikaki (QftT version) | QftT
+|  | Husi | QftT
+| ![](builds/rahi/hikaki/hikaki.png) | Hikaki (QftT) | QftT
 | | Kewa | MNOG, QftT |
+|  | Kofo-Jaga | QftT
 | ![](builds/rahi/little-scorpion/little-scorpion.png) | [Little Scorpion](/builds/rahi/little-scorpion) | LoMN, QftT |
 | ![](builds/rahi/mahi-tame/mahi-tame.png) | [Mahi (Tame)](/builds/rahi/mahi-tame) | MNOG, MNOGII | |
 | ![](builds/rahi/mahi-wild/mahi-wild.png) | [Mahi (Wild)](/builds/rahi/mahi-wild) | QftT |
+|  | Makika | QftT
 |  | Moa | QftT
 | ![](builds/rahi/sand-tarakava/sand-tarakava.png) | [Sand Tarakava](/builds/rahi/sand-tarakava) | MNOG, LoMN |
 | ![](builds/rahi/small-fish/small-fish.png) | [Small Fish](/builds/rahi/small-fish) | MNOG, LoMN, QftM
 | ![](builds/rahi/snake/snake.png) | [Snake](/builds/rahi/snake) | LoMN
+|  | Taki | QftT
 | ![](builds/rahi/tiny-fish/tiny-fish.png) | [Tiny Fish](/builds/rahi/tiny-fish) | LoMN, QftM |
 | ![](builds/rahi/shore-turtle/shore-turtle.png) | [Shore Turtle](/builds/rahi/shore-turtle) | LoMN (scrapped), QftT, QftM |
 | ![](builds/rahi/turtle/turtle.png) | [Turtle](/builds/rahi/turtle) | LoMN
 | ![](builds/rahi/ussal-crab/ussal-crab.png) | [Ussal Crab](/builds/rahi/ussal-crab) | MNOG, QftT, QftM |
+|  | Vako | QftT
 | ![](builds/rahi/wolf-rat/wolf-rat.png) | [Wolf Rat](/builds/rahi/wolf-rat) | LoMN
 
 ### Items

@@ -9,3 +9,7 @@ Tasks
 -----
 * Confirm the Pakari and claw are indeed light gray instead of dark gray or silver
 * Confirm the angle of the eye stalks is accurate
+
+Tasks
+-----
+Update .obj eye color to be red as shown in gameplay
