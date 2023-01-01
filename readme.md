@@ -28,15 +28,15 @@ Builds
 |-|-|-|
 | ![](builds/rahi/bat/bat.png) | [Bat](/builds/rahi/bat) | LoMN, QftM |
 |  | Bird | LoMN, QftT |
-| ![](builds/rahi/brakas/brakas.png) | Brakas | QftT (scrapped) |
+| ![](builds/rahi/brakas/brakas.png) | [Brakas](/builds/rahi/brakas) | QftT (scrapped) |
 | ![](builds/rahi/bug/bug.png) | [Bug](/builds/rahi/bug) | LoMN, QftT |  Black, Light Blue |
 |  | Cliff Bug | QftT |
 | ![](builds/rahi/crab/crab.png) | [Crab](/builds/rahi/crab) | LoMN | |
-| ![](builds/rahi/electric-bug/electric-bug.png) | Electric Bug | LoMN, QftT |
-| ![](builds/rahi/electric-spider/electric-spider.png) | Electric Spider | QftT |
+| ![](builds/rahi/electric-bug/electric-bug.png) | [Electric Bug](/builds/rahi/electric-bug) | LoMN, QftT |
+| ![](builds/rahi/electric-spider/electric-spider.png) | [Electric Spider](/builds/rahi/electric-spider) | QftT |
 | ![](builds/rahi/fikou-nui/fikou-nui.png) | [Fikou Nui](/builds/rahi/fikou-nui) | LoMN | |
 |  | Husi | QftT
-| ![](builds/rahi/hikaki/hikaki.png) | Hikaki (QftT) | QftT
+| ![](builds/rahi/hikaki/hikaki.png) | [Hikaki (QftT)](/builds/rahi/hikaki) | QftT
 | | Kewa | MNOG, QftT |
 |  | Kofo-Jaga | QftT
 | ![](builds/rahi/little-scorpion/little-scorpion.png) | [Little Scorpion](/builds/rahi/little-scorpion) | LoMN, QftT |
