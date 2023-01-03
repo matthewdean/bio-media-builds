@@ -27,7 +27,7 @@ Builds
 | Image | Name | Appears In |
 |-|-|-|
 | ![](builds/rahi/bat/bat.png) | [Bat](/builds/rahi/bat) | LoMN, QftM |
-|  | Bird | LoMN, QftT |
+| ![](builds/rahi/bird/bird.png) | [Bird](/builds/rahi/bird) | LoMN (opening cinematic), QftT |
 | ![](builds/rahi/brakas/brakas.png) | [Brakas](/builds/rahi/brakas) | QftT (scrapped) |
 | ![](builds/rahi/bug/bug.png) | [Bug](/builds/rahi/bug) | LoMN, QftT |  Black, Light Blue |
 |  | Cliff Bug | QftT |
