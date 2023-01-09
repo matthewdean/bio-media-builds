@@ -1,0 +1,8 @@
+newmtl Material_000_Mat
+Kd 0.5 0.5 0.5
+d 1
+Tr 0
+Ns 0
+Ks 0 0 0
+Ke 0.100000001490116 0.100000001490116 0.100000001490116
+map_Kd le_lev_10xx_launcher.dds
