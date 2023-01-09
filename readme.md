@@ -60,7 +60,7 @@ Builds
 | Image | Name | Appears In |
 |-|-|-|
 | ![](builds/items/lavaboard/lavaboard.png) | [Lavaboard](/builds/items/lavaboard) | MNOG, LoMN, QftT |
-| | Volo Lutu Launcher | LoMN, QftT
+| ![](builds/items/volo-lutu-launcher/volo-lutu-launcher.png) | [Volo-Lutu Launcher](/builds/items/volo-lutu-launcher) | LoMN, QftT
 | | Vuata Maca Crystal | QftT
 | | Vuata Maca Tree | QftT
 | ![](builds/items/vuata-maca-tree-fruit/vuata-maca-tree-fruit.png) | [Vuata Maca Tree Fruit](/builds/items/vuata-maca-tree-fruit) | MNOG, LoMN
