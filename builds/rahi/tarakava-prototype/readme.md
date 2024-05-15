@@ -18,4 +18,5 @@ Notes
     * Bushings are added to the rear wheel axle
 
 * [Slope, Curved 2 x 4 Double without Groove](https://www.bricklink.com/v2/catalog/catalogitem.page?P=6192a#T=S&C=34&O={%22color%22:%2234%22,%22iconly%22:0}) is not in the database so the variation with groove is used instead
-* The Stud.io file is missing [Duplo tread](https://www.bricklink.com/v2/catalog/catalogitem.page?id=55649#T=S&C=11&O={%22color%22:11,%22iconly%22:0}) and [rubber bands](https://www.bricklink.com/v2/catalog/catalogitem.page?P=x71#T=S&C=1&O={%22color%22:%221%22,%22iconly%22:0}) as those parts are not in the database.
+* The Stud.io file is missing [Duplo tread](https://www.bricklink.com/v2/catalog/catalogitem.page?id=55649#T=S&C=11&O={%22color%22:11,%22iconly%22:0}) and rubber bands as those parts are not in the database.
+* Sourced from [The Turaga Files - Video 1](https://www.youtube.com/watch?v=AjbiNuEv60c)
