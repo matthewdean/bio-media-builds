@@ -46,6 +46,7 @@ Builds
 |  | Moa | QftT
 |  | Ruku | LoMN |
 | ![](builds/rahi/sand-tarakava/sand-tarakava.png) | [Sand Tarakava](/builds/rahi/sand-tarakava) | MNOG, LoMN |
+| ![](builds/rahi/tarakava-prototype/tarakava-prototype.png) | [Tarakava (Prototype)](/builds/rahi/tarakava-prototype) | |
 | ![](builds/rahi/small-fish/small-fish.png) | [Small Fish](/builds/rahi/small-fish) | MNOG, LoMN, QftM
 | ![](builds/rahi/snake/snake.png) | [Snake](/builds/rahi/snake) | LoMN
 |  | Taki | QftT
